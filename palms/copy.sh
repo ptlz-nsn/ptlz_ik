@@ -1,0 +1,1 @@
+cp /home/host/code/cpp/engineai_robotics/src/core/estimator/parallel_palms/src/tests/data/** ./data/
