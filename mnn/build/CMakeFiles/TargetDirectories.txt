@@ -1,0 +1,3 @@
+/home/host/code/cpp/mnn/build/CMakeFiles/main.dir
+/home/host/code/cpp/mnn/build/CMakeFiles/edit_cache.dir
+/home/host/code/cpp/mnn/build/CMakeFiles/rebuild_cache.dir
